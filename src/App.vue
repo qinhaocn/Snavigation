@@ -53,7 +53,7 @@
       </main>
       <div v-else id="loading">
         <img src="/icon/logo.png" alt="logo" class="logo" />
-        <span class="tip">jxjx.cc</span>
+        <span class="tip">JXJX.CC</span>
       </div>
     </Transition>
   </Provider>
